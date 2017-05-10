@@ -7,6 +7,10 @@
     "prepublish": "./node_modules/.bin/babel src --out-dir dist",
     "compile-watch": "./node_modules/.bin/babel src --watch --out-dir dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svedjebratt/skymma-react"
+  },
   "author": "Magnus",
   "license": "MIT",
   "devDependencies": {
