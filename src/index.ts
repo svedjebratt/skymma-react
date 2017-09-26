@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 
 export {default as FieldErrors} from './FieldErrors';
 export {default as Message} from './Message';
