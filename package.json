@@ -28,5 +28,5 @@
   "dependencies": {
     "@types/react": "^16.0.7"
   },
-  "typings": "dist/index.d.ts"
+  "typings": "./dist/index.d.ts"
 }
