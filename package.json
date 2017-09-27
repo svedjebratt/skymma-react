@@ -1,6 +1,6 @@
 {
   "name": "skymma-react",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "React components for skymma",
   "main": "dist/index.js",
   "scripts": {
